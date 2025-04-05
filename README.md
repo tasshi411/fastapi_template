@@ -1,0 +1,2 @@
+# fastapi_template
+個人開発用のFastAPIのテンプレート
